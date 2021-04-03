@@ -1,0 +1,3 @@
+nama database : toko
+file database : ada difolder ini bernama toko.sql
+php : versi 8(xampp)
