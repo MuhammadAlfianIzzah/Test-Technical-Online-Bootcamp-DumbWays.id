@@ -7,4 +7,5 @@
 #### untuk hasil screenshoot ada difolder  screenshot
 #### untuk catatan penggunaan ada didalam folder  catatan
 #### untuk file rootnya ada difile index.php (untuk nomor 4)
-#TERIMA KASIH
+## UNTUK NO 2 MAAF saya lupa soalnya( duluan kesubmit kirain masih bisa buka kembali soal nya) jadi saya kerja asal 🙏🙏
+# TERIMA KASIH👨👨
